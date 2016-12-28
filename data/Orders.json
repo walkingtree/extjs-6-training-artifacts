@@ -1,0 +1,42 @@
+[{
+  "id": "1",
+  "name": "Bob",
+  "phone": "9876-543-210",
+  "orders": [{
+    "id": "1",
+    "date": "2017-01-01",
+    "total": "Rs. 10000",
+    "customer_id": "1",
+
+  }, {
+    "id": "2",
+    "date": "2017-02-02",
+    "total": "Rs. 20000",
+    "customer_id": "1"
+  }]
+}, {
+  "id": "2",
+  "name": "Tom",
+  "phone": "8762-123-456",
+  "orders": [{
+    "id": "3",
+    "date": "2017-01-12",
+    "total": "Rs. 3000",
+    "customer_id": "2"
+  }, {
+    "id": "4",
+    "date": "2017-02-06",
+    "total": "Rs. 12000",
+    "customer_id": "2"
+  }]
+}, {
+  "id": "3",
+  "name": "Harry",
+  "phone": "9123-254-632",
+  "orders": [{
+    "id": "5",
+    "date": "2017-03-15",
+    "total": "Rs. 6300",
+    "customer_id": "3"
+  }]
+}]
