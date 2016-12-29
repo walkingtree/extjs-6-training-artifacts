@@ -1,25 +1,25 @@
 [{
   "id": "17",
   "name": "Bob Smith",
-  "age": 29,
-  "salary" : 23999,
+  "age": 69,
+  "pension" : 23999,
   "alive" : true
   }, {
   "id": "7",
   "name": "Steven Smith",
-  "age": 39,
-  "salary" : 43999,
+  "age": 67,
+  "pension" : 43999,
   "alive" : true
   }, {
   "id": "27",
   "name": "Andy Mcord",
-  "age": 52,
-  "salary" : 53999,
+  "age": 82,
+  "pension" : 3999,
   "alive" : true
   },{
   "id": "87",
   "name": "Bob Saket",
   "age": 87,
-  "salary" : 0,
+  "pension" : 5000,
   "alive" : false
 }]
