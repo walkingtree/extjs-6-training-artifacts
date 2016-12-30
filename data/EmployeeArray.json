@@ -1,0 +1,6 @@
+[
+  ["17", "Bob Smith", 69, 23999, true],
+  ["7", "Steven Smith", 67, 43999, true],
+  ["27", "Andy Mcord", 82, 3999, true],
+  ["87", "Bob Saket", 87, 5000, false]
+]
