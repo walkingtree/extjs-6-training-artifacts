@@ -1,8 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<user>
-<details>
-<name>abc</name>
-<class>xyz</class>
-<city>pqr</city>
-</details>
-</user>
+<data>
+	<employee>
+		<id> 17 </id>
+		<city> Hyderabad </city>
+		<name> Bob Smith </name>
+		<age> 29 </age>
+		<salary> 23999 </salary> 
+		<alive> true </alive>
+	</employee>
+	<employee>
+		<id> 18 </id>
+		<city> Hyderabad </city>
+		<name> Steven Smith </name>
+		<age> 29 </age>
+		<salary> 23999 </salary> 
+		<alive> true </alive>	
+	</employee>
+	<employee>
+		<id> 19 </id>
+		<city> Calgary </city>
+		<name> Randy Mcord </name>
+		<age> 29 </age>
+		<salary> 23999 </salary> 
+		<alive> true </alive>
+	</employee>
+	<employee>
+		<id> 20 </id>
+		<city> Toronto </city>
+		<name> Vivek Selot </name>
+		<age> 29 </age>
+		<salary> 23999 </salary> 
+		<alive> true </alive>
+	</employee>
+	<employee>
+		<id> 21 </id>
+		<city> California </city>
+		<name> Bob Saket </name>
+		<age> 29 </age>
+		<salary> 23999 </salary> 
+		<alive> true </alive>
+	</employee>
+	<employee>
+		<id> 22 </id>
+		<city> Chicago </city>
+		<name> Bob Smith </name>
+		<age> 29 </age>
+		<salary> 23999 </salary> 
+		<alive> true </alive>	
+	</employee>
+	<employee>
+		<id> 23 </id>
+		<city> Bangalore </city>
+		<name> Amit Thakur </name>
+		<age> 29 </age>
+		<salary> 23999 </salary> 
+		<alive> true </alive>
+	</employee>,
+	<employee>
+		<id> 24 </id>
+		<city> Bangalore </city>
+		<name> Ankit Thakur </name>
+		<age> 39 </age>
+		<salary> 223999 </salary> 
+		<alive> true </alive>
+	</employee>
+</data>
